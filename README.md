@@ -1,3 +1,3 @@
 # TestRepo
 Тест-кейсы
-Testing...
+Testing completed
